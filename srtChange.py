@@ -2,10 +2,11 @@
 #主要用来学习youtube上面各种各样的英文课程
 # 同时也方便做笔记
 
+name='(English)Lecture 9_ Machine Translation and Advanced Recurrent LSTMs and GRUs - YouTube'
 
-filename = '(English)Lecture 8 _ Deep Learning Software - YouTube.srt'
+filename = name+'.srt'
 
-subtitle=open('MySubtitle.srt','w',encoding='utf-8')
+subtitle=open(name+'.txt','w',encoding='utf-8')
 
 with open(filename, encoding='UTF-8') as file_obj:
     for line in file_obj:
