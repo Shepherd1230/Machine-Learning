@@ -7,7 +7,7 @@
 - 卷计算机网络ConvNet
 - 图片分类器
 
-## UFLDL（Unsupervised Feature Learning and Deep Learning）--by Andrew.
+## 《UFLDL》（Unsupervised Feature Learning and Deep Learning）--by Andrew.
 链接：http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial
 完成情况：
 
